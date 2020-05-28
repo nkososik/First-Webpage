@@ -26,3 +26,7 @@ font-family:georgia;
 float: right;
 background-color: darkgray;
 font-size: smaller;}
+.column {width: 300px;
+font-weight: bold;
+float: none
+}
