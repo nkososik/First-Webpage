@@ -20,4 +20,9 @@ ul {
 .important {color: red;}
 .unimportant {color: blue;}
 .about {font-style: italic;
-font-family:georgia;}
+font-family:georgia;
+}
+.sidebar {width: 30%;
+float: right;
+background-color: darkgray;
+font-size: smaller;}
